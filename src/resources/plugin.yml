@@ -1,0 +1,9 @@
+name: MineVerseShtany
+version: 1.0
+main: mineverse.shtany.MineVerseShtanyPlugin
+api-version: "1.21"
+
+commands:
+  shtany:
+    description: Управление аномалией
+    usage: /shtany [reload|force]
